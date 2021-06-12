@@ -13,7 +13,7 @@ Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is res
 ### Some results
 #### Auto encoder results.
 
-In the following image it show the results that was generated trough the Auto encoder. This auto encode was tested to reduce the dimentionality by generating a latent space.
+In the following images, it shows the results that was generated trough the Auto encoder. This auto encode was tested to reduce the dimentionality by generating a latent space.
 
 [Left - Input] [Mid - Output] [Right - Latent space]
 
